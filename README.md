@@ -1,1 +1,2 @@
 # PalestraFatec
+# João Lucas Farias
